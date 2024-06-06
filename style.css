@@ -1,0 +1,384 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.class4 {
+    background-color: white;
+    position: fixed;
+    width: 99%;
+    height: 13%;
+    margin-top: -1%;
+    
+}
+.class4 div {
+    display: flex;
+    flex-direction: row;
+    margin: 18px;
+    font-size: large;
+    margin-left: 19px;
+    margin-top: 10px;
+      
+}
+.class1 div :any-link {
+    margin-left: 0px;
+    text-decoration: none;
+    color: rgb(40, 38, 38);
+    font-weight: bold;
+    justify-content: flex-end;
+    
+}
+.star :hover :any-link {
+    color: rgb(90, 90, 182);
+}
+
+.class2 img {
+    height: 50px;
+}
+.class3  {
+    background-color:blue;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    padding-top: 0%;
+    margin-top: 200px;
+}
+.class6  {
+    padding-left: 10%;  
+ 
+}
+.class5 {
+    width: 40px;
+    background-color:blue;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+
+.img img {
+    width: 1500px;
+    background-image: url("./Breakforthacademy photos/brr8.jpg");
+    height: 750px;
+    
+}
+.margin  {
+    text-align: center;
+    top: 320px;
+    position: absolute;
+    margin-left: 25%;
+    color: white;
+    /* background-color: blue; */
+}
+.hearder {
+    font-size: 50px;
+    text-align: center;
+}
+.small {
+    font-size: 25px;
+    text-align: center;
+}
+.master {
+    width: 70%;
+    text-align: justify;
+    padding-left: 50px;
+    background-color: rgb(254, 252, 252);
+    border-radius: 20px;
+    
+}
+.masterb {
+    width: 20%;
+}
+.master div {
+font-weight: lighter;
+display: inline-block;
+color: rgb(85, 94, 91);
+}
+.master h1 {
+    font-size: 50px;
+}
+.about  {
+    background-color:rgb(11, 11, 246);
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    padding-top: 0%;
+}
+.about div :any-link {
+justify-content: center;
+text-decoration: none;
+color: white;
+font-weight: bolder;
+font-size: large;
+}
+.about div {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.bigi img {
+border-radius: 20px;
+}
+.tep_div {
+    background-color: rgb(239, 241, 240);
+    margin-top: 30px;
+    
+}
+.runna {
+    margin-left: 50px;
+}
+
+.messy {
+    background-color: white;
+      height: 50px;
+    width: 148px;
+    border-radius: 15px;
+    margin-right: 30px;
+    border-style: solid;
+    border-color: blue;  
+}
+.musa {
+    width: 50%;
+}
+.masamasa :any-link {
+   text-decoration: none;
+   color: rgb(7, 14, 221);
+   font-weight: bold;
+}
+.masamasa {
+    margin-top: 15px; 
+   margin-bottom: 30px;
+   margin-left: 10px;
+}
+.cal_log :hover {
+background-color: blue;
+color: white;
+}
+.mas_ter {
+    font-weight: normal;
+    color: rgb(0, 2, 1);
+    }
+    .classty {
+        margin-left: 30px;
+    }
+    .mummy {
+        background-color: white;
+        width: 550px;
+        padding-left: 50px;
+        border-left: 30%;
+        border-radius: 30px;
+        padding-top: 0%;
+        margin-left: 300%;
+    
+    }
+    .btc {
+        background-color: blue;
+        width: 100px;
+        height: 80px;
+        text-align: center;
+        margin-top: -30px;
+
+    }
+.btc div img {
+margin-top: 20px;
+}
+.tteem {
+    width: 50px;
+}
+.henddy {
+    height: 70px;
+}
+.munny :hover {
+    background-color: rgb(220, 220, 229);
+    
+}
+.mosa {
+    width: 35%;
+}
+.misster {
+    color: rgb(91, 91, 95);
+    margin-bottom: 20px;
+}
+.techo img {
+    width: 100%;
+    
+}
+.nocho {
+    width: 550px;
+    height: 450px;
+    background-color: white;
+    margin-left: 50px;
+    top:2800px;
+    border-radius: 20px;
+    position: absolute;
+    
+}
+.vakco img {
+    width: 80px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.alco {
+    width: 450px;
+    margin-left: 40px;
+
+}
+.alco div {
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgb(91, 91, 95);
+}
+.duku {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bolder;
+    
+}
+.nukaa {
+    width: 450px;
+    text-align: center;
+    margin-left: 30px;
+}
+.wiwiwa div {
+    color: rgb(91, 91, 95);
+}
+.favicon img {
+    width: 40px;
+}
+.master div img {
+    background-color: blue;
+    margin-bottom: 60px;
+    margin-top: 10px;
+    
+}
+.dd-vv {
+    width: 80px;
+    height: 60px;
+    background-color: blue;
+    text-align: center;
+    margin-bottom: 90px;
+}
+.biga img {
+    border-radius: 20px;
+    width: 600px;
+}
+.mommi img {
+width: 60px;
+height: 50px;
+
+}
+.master h3 {
+    position: absolute;
+ top: 4130px;
+ left: 750px;
+}
+.fruntia {
+    background-color: rgb(25, 24, 40);
+    text-align: center;
+    height: 450px;
+
+    
+}
+.mama {
+    padding-top: 120px;
+    color: rgb(195, 194, 193);
+    font-size: 30px;
+}
+.suka {
+    color: white;
+    font-size: 60px;
+}
+.kangka  {
+    background-color:rgb(11, 11, 246);
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    padding-top: 1%;
+    margin-left: 670px;
+}
+.kangka div :any-link {
+justify-content: center;
+text-decoration: none;
+color: white;
+font-weight: bolder;
+font-size: 20px;
+}
+.kangka div {
+    margin-top: 8px;
+}
+.sisisa {
+    background-color: rgb(18, 18, 28) ;
+}
+.blend div img {
+    width: 50px;
+    border-radius: 10px;
+    margin-top: -10px;
+    margin-right: 10px;
+  
+}
+.blend {
+    display: flex;
+    flex-direction: row;
+   
+}
+.blend div {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.mighty {
+     margin-left: 20px;
+  padding-top: 70px;
+  width: 400px;
+}
+.hhttp {
+    font-size: 18px;
+    color: rgb(195, 194, 193);
+}
+.fame input {
+width: 250px;
+height: 40px;
+border-radius: 10px;
+}
+.fame label {
+    color: white;
+    font-weight: bolder;
+}
+.abily {
+    display: flex;
+    flex-direction: row;
+}
+.gina h3 {
+color: white;
+}
+.gina :any-link {
+font-size: 20px;
+color: blue;
+}
+.vivino {
+    color: white;
+    background-color: rgb(46, 46, 61);
+    width: 400px;
+    margin-left: 20px;
+    text-align: center;
+}
+.bossman h3 {
+color: rgb(17, 6, 137);
+}
+.bossman div :any-link {
+    text-decoration: none;
+    color: rgb(187, 183, 183);
+}
+.babayo {
+    width: 130px;
+}
+.uluwa {
+    margin-left: 500px;
+    margin-top: -510px ;
+    margin-bottom: 250px;
+}
+
+
+
+
+
+
+
+
